@@ -61,6 +61,7 @@ a {
   font-weight: 400;
   font-family: 'Roboto', sans-serif;
   letter-spacing: 2px;
+  text-decoration: none;
 }
 header {
   background-color: #95D3FA;
@@ -206,6 +207,7 @@ header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
   cursor: pointer;
   border: none;
   border-radius: 18px;
+  text-decoration: none;
 }
 
 .ansoeg_btn_anchor {
